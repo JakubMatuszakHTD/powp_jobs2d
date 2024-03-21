@@ -2,7 +2,6 @@ package edu.kis.powp.jobs2d.commands;
 
 import edu.kis.powp.jobs2d.Job2dDriver;
 
-import java.util.HashMap;
 import java.util.List;
 
 public class ComplexCommands implements DriverCommand {
