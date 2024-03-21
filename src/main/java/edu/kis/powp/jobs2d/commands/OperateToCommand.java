@@ -6,7 +6,6 @@ public class OperateToCommand implements DriverCommand {
     private final int x, y;
 
     public OperateToCommand(int x, int y) {
-        super();
         this.x = x;
         this.y = y;
     }

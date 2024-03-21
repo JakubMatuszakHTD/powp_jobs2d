@@ -6,8 +6,6 @@ public class SetPositionCommand implements DriverCommand {
     private final int x, y;
 
     public SetPositionCommand(int x, int y) {
-        super();
-
         this.x = x;
         this.y = y;
     }
